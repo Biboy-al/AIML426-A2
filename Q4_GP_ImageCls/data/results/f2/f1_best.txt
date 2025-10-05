@@ -1,0 +1,5 @@
+Best individual  FeaCon3(Local_uLBP(Region_R(Image0, 96, 19, 48, 22)), Local_uLBP(Region_R(Image0, 99, 19, 22, 22)), FeaCon3(Local_uLBP(Region_R(Image0, 81, 9, 49, 22)), FeaCon3(Local_SIFT(Region_R(Image0, 100, 19, 48, 22)), Local_SIFT(Region_R(Image0, 4, 90, 48, 24)), Local_SIFT(Region_S(Image0, 100, 61, 48))), Global_HOG(Image0)))
+Test results   96.0
+Train time   7506.99619
+Test time   3.186948000000484
+End

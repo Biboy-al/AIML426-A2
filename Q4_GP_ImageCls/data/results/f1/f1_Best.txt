@@ -1,0 +1,6 @@
+50      100     95.8866 50      98      49.33   100     8.26941 6.85    50      7       2       100     0.852936 
+Best individual  Local_SIFT(Region_R(Image0, 102, 35, 44, 45))
+Test results   98.0
+Train time   407.79930199999995
+Test time   0.12869700000004514
+End
